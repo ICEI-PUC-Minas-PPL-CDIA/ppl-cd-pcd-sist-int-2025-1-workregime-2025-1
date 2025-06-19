@@ -2,15 +2,37 @@ cff-version: 1.0.1
 message: Este repositório contém os modelos e os resultados obtidos na pesquisa sobre os diferentes regimes de trabalho
 title: Fatores que influenciam a escolha de profissionais de dados na escolha do regime de trabalho
 authors:
+   - name-suffix: Estudante
+    affiliation: PUC Minas
+    family-names: Douglas Cassemiro Junior
+    given-names: Márcio
+   - name-suffix: Estudante
+    affiliation: PUC Minas
+    family-names: Assis Cavalcante
+    given-names: Luiz Felipe
+   - name-suffix: Estudante
+    affiliation: PUC Minas
+    family-names: Lima
+    given-names: João Vitor
+   - name-suffix: Estudante
+    affiliation: PUC Minas
+    family-names: Horta
+    given-names: Gustavo
+   - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: de Paula
+    given-names: Hugo
    - name-suffix: Estudantes
     affiliation: PUC Minas
-    family-names: Cassemiro, Cavalcante, Lima, Horta
-    given-names: Márcio, Luiz Felipe, João, Gustavo
+    family-names: Curto
+    given-names: Hayala
 keywords:
   - Ciência de Dados
+  - Regime de trabalho
+  - Sistema inteligente
   - Jupyter Notebooks
   - Aprendizado de Máquina
 repository-code:
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2025-06-12
+date-released: 2025-06-19
