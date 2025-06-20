@@ -25,11 +25,6 @@ _Instituto de Informática e Ciências Exatas – Pontifícia Universidade de Mi
 
 ---
 
-_**Resumo**. Escrever aqui o resumo. O resumo deve contextualizar rapidamente o trabalho, descrever seu objetivo e, ao final, 
-mostrar algum resultado relevante do trabalho (até 10 linhas)._
-
----
-
 ## 📑 Índice
 
 - [Introdução](#introdução)
@@ -1562,4 +1557,4 @@ Dos artefatos (armazenado do repositório);
 
 Da apresentação final (armazenado no repositório);
 
-Do vídeo de apresentação (armazenado no repositório).
+[Vídeo de apresentação](https://youtu.be/V4XIr8OAF04)
