@@ -1458,7 +1458,7 @@ Em conclusão, o modelo Random Forest demonstrou maior potencial para capturar p
 
 ### Distribuição do modelo
 Para distribuir o modelo, utilizamos o Flask para criar um servidor que executa os dois modelos treinados com SMOTE, selecionados por apresentarem os melhores desempenhos.
-Todos os arquivos necessários para o funcionamento do servidor estão localizados na pasta: `assets/models/distrib_model`
+Todos os arquivos necessários para o funcionamento do servidor estão localizados na pasta: [`assets/models/distrib_model`](https://github.com/ICEI-PUC-Minas-PPL-CDIA/ppl-cd-pcd-sist-int-2025-1-workregime-2025-1/tree/main/assets/models/distrib_model)
 
 #### Como executar o servidor
 1. Instale as dependências listadas no arquivo requirements.txt utilizando o comando:
@@ -1516,7 +1516,6 @@ Foram então desenvolvidos dois modelos preditivos: uma Árvore de Decisão e um
 Também testamos bases complementares, mas sua contribuição foi limitada. Faltaram variáveis mais contextuais — como tempo de deslocamento ou rotina familiar — que poderiam ter aumentado a precisão dos modelos. Entendemos que esses dados são mais sensíveis, mas sua ausência compromete parte da análise.
 
 Apesar das limitações, o processo foi valioso. Fomos ajustando rotas ao longo do caminho, aprofundando a compreensão dos modelos e aprendendo com os erros. Se fosse possível refazer o estudo, começaríamos com uma seleção mais criteriosa das variáveis e bases, além de buscar um maior equilíbrio entre as classes, especialmente o regime presencial.
-...
 
 # REFERÊNCIAS
 
@@ -1552,8 +1551,10 @@ Arquivos de modelos. Disponível em: https://pucminas.instructure.com/courses/22
 **Colocar link:**
 
 Do código (armazenado no repositório);
+[`assets/models`](https://github.com/ICEI-PUC-Minas-PPL-CDIA/ppl-cd-pcd-sist-int-2025-1-workregime-2025-1/tree/main/assets/models)
 
 Dos artefatos (armazenado do repositório);
+[`src`](https://github.com/ICEI-PUC-Minas-PPL-CDIA/ppl-cd-pcd-sist-int-2025-1-workregime-2025-1/tree/main/src)
 
 Da apresentação final (armazenado no repositório);
 
