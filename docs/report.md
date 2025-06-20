@@ -25,6 +25,12 @@ _Instituto de Informática e Ciências Exatas – Pontifícia Universidade de Mi
 
 ---
 
+_**Resumo**: Este trabalho tem como objetivo aplicar técnicas de aprendizado de máquina para prever a forma de trabalho ideal (remoto, híbrido ou presencial) de profissionais da área de dados. Utilizou-se uma base de dados composta por informações como nível de escolaridade, idade, tempo de experiência, cargo, salário e preferências individuais. Foram empregados os algoritmos de Árvore de Decisão e Random Forest, ambos conhecidos por sua boa capacidade preditiva e interpretabilidade. O modelo de Árvore de Decisão demonstrou ótimo desempenho na classificação dos regimes remoto e híbrido, mas apresentou dificuldades em identificar corretamente os casos de regime presencial — mesmo após o balanceamento das classes utilizando a técnica SMOTE. O modelo Random Forest, embora mais robusto, apresentou o mesmo padrão: bom desempenho para remoto e híbrido, porém com resultados insatisfatórios para o regime presencial. Os resultados indicam que, apesar da eficácia geral dos modelos, há limitações na representação ou quantidade de dados associados ao regime presencial. O estudo evidencia o potencial do uso de inteligência artificial para apoiar decisões organizacionais, especialmente na personalização de ambientes de trabalho de acordo com os perfis individuais._
+
+
+
+---
+
 ## 📑 Índice
 
 - [Introdução](#introdução)
