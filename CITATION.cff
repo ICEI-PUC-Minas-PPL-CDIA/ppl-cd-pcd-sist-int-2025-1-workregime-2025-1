@@ -1,38 +1,38 @@
 cff-version: 1.0.1
-message: Este repositório contém os modelos e os resultados obtidos na pesquisa sobre os diferentes regimes de trabalho
+message: Este repositório contém os modelos e os resultados obtidos na pesquisa sobre os diferentes regimes de trabalho.
 title: Fatores que influenciam a escolha de profissionais de dados na escolha do regime de trabalho
 authors:
-   -name-suffix: Estudante
-    affiliation: PUC Minas
+  - given-names: Márcio
     family-names: Douglas Cassemiro Junior
-    given-names: Márcio
-   -name-suffix: Estudante
+    name-suffix: Estudante
     affiliation: PUC Minas
+  - given-names: Luiz Felipe
     family-names: Assis Cavalcante
-    given-names: Luiz Felipe
-   -name-suffix: Estudante
+    name-suffix: Estudante
     affiliation: PUC Minas
+  - given-names: João Vitor
     family-names: Lima
-    given-names: João Vitor
-   -name-suffix: Estudante
+    name-suffix: Estudante
     affiliation: PUC Minas
+  - given-names: Gustavo
     family-names: Horta
-    given-names: Gustavo
-   -name-suffix: Professor
+    name-suffix: Estudante
     affiliation: PUC Minas
+  - given-names: Hugo
     family-names: de Paula
-    given-names: Hugo
-   -name-suffix: Estudantes
+    name-suffix: Professor
     affiliation: PUC Minas
+  - given-names: Hayala
     family-names: Curto
-    given-names: Hayala
+    name-suffix: Estudante
+    affiliation: PUC Minas
 keywords:
   - Ciência de Dados
   - Regime de trabalho
   - Sistema inteligente
   - Jupyter Notebooks
   - Aprendizado de Máquina
-repository-code:
+repository-code: https://github.com/ICEI-PUC-Minas-PPL-CDIA/ppl-cd-pcd-sist-int-2025-1-workregime-2025-1
 license: CC-BY-4.0
 version: 1.0.0
 date-released: 2025-06-19
