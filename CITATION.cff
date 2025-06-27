@@ -3,11 +3,11 @@ message: Este repositório contém os modelos e os resultados obtidos na pesquis
 title: Fatores que influenciam a escolha de profissionais de dados na escolha do regime de trabalho
 authors:
   - given-names: Márcio
-    family-names: Douglas Cassemiro Junior
+    family-names: Douglas
     name-suffix: Estudante
     affiliation: PUC Minas
   - given-names: Luiz Felipe
-    family-names: Assis Cavalcante
+    family-names: Cavalcante
     name-suffix: Estudante
     affiliation: PUC Minas
   - given-names: João Vitor
