@@ -1557,11 +1557,17 @@ Arquivos de modelos. Disponível em: https://pucminas.instructure.com/courses/22
 **Colocar link:**
 
 Do código (armazenado no repositório);
+
 [`assets/models`](https://github.com/ICEI-PUC-Minas-PPL-CDIA/ppl-cd-pcd-sist-int-2025-1-workregime-2025-1/tree/main/assets/models)
 
 Dos artefatos (armazenado do repositório);
+
 [`src`](https://github.com/ICEI-PUC-Minas-PPL-CDIA/ppl-cd-pcd-sist-int-2025-1-workregime-2025-1/tree/main/src)
 
 Da apresentação final (armazenado no repositório);
 
-[Vídeo de apresentação](https://youtu.be/V4XIr8OAF04)
+[`slides`](https://github.com/ICEI-PUC-Minas-PPL-CDIA/ppl-cd-pcd-sist-int-2025-1-workregime-2025-1/blob/main/Work%20Regime.pptx)
+
+Video da apresentação (armazenado no repositório);
+
+[`Vídeo de apresentação`](https://youtu.be/V4XIr8OAF04)
